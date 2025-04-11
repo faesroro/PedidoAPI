@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# VS Code
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# DotNet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test results
+TestResults/
+*.TestResult.xml
+
+# Others
+*.DS_Store
+*.env
+*.swp
+*.bak
+*.tmp
+*.log
+*.vs/
+
+# NuGet packages
+*.nupkg
+packages/
